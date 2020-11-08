@@ -1,0 +1,6 @@
+{
+  "name": "farce/createBasenameMiddleware",
+  "private": true,
+  "main": "../cjs/createBasenameMiddleware.js",
+  "module": "../esm/createBasenameMiddleware.js"
+}

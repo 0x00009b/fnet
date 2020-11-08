@@ -1,0 +1,6 @@
+{
+  "name": "farce/MemoryProtocol",
+  "private": true,
+  "main": "../cjs/MemoryProtocol.js",
+  "module": "../esm/MemoryProtocol.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "farce/ensureLocation",
+  "private": true,
+  "main": "../cjs/ensureLocation.js",
+  "module": "../esm/ensureLocation.js"
+}

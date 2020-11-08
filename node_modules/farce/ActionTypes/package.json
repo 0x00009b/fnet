@@ -1,0 +1,6 @@
+{
+  "name": "farce/ActionTypes",
+  "private": true,
+  "main": "../cjs/ActionTypes.js",
+  "module": "../esm/ActionTypes.js"
+}

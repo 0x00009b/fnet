@@ -1,0 +1,6 @@
+{
+  "name": "farce/queryMiddleware",
+  "private": true,
+  "main": "../cjs/queryMiddleware.js",
+  "module": "../esm/queryMiddleware.js"
+}

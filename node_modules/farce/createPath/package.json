@@ -1,0 +1,6 @@
+{
+  "name": "farce/createPath",
+  "private": true,
+  "main": "../cjs/createPath.js",
+  "module": "../esm/createPath.js"
+}

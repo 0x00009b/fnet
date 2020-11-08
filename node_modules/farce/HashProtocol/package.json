@@ -1,0 +1,6 @@
+{
+  "name": "farce/HashProtocol",
+  "private": true,
+  "main": "../cjs/HashProtocol.js",
+  "module": "../esm/HashProtocol.js"
+}

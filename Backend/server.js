@@ -2,6 +2,7 @@ const express = require('express');
 const helmet = require('helmet');
 const statuz = require('statuz');
 const rateLimit = require("express-rate-limit");
+const notFound = require('not-found');
 
 const app = express();
 
@@ -25,4 +26,5 @@ app.get('/', function (req, res){
 app.get('/admin', function (req, res){
   res.redirect('/home/runner/fnet/pages/rickrole.html')
 })
-app.listen(3000 ,'0.0.0.0');
+app.listen(3001 ,'0.0.0.0');
+console.log("server started ")

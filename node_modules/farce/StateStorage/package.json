@@ -1,0 +1,6 @@
+{
+  "name": "farce/StateStorage",
+  "private": true,
+  "main": "../cjs/StateStorage.js",
+  "module": "../esm/StateStorage.js"
+}

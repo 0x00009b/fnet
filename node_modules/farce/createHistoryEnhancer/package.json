@@ -1,0 +1,6 @@
+{
+  "name": "farce/createHistoryEnhancer",
+  "private": true,
+  "main": "../cjs/createHistoryEnhancer.js",
+  "module": "../esm/createHistoryEnhancer.js"
+}

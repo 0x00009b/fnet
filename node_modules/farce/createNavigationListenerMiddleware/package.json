@@ -1,0 +1,6 @@
+{
+  "name": "farce/createNavigationListenerMiddleware",
+  "private": true,
+  "main": "../cjs/createNavigationListenerMiddleware.js",
+  "module": "../esm/createNavigationListenerMiddleware.js"
+}

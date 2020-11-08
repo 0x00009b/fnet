@@ -1,0 +1,6 @@
+{
+  "name": "farce/ServerProtocol",
+  "private": true,
+  "main": "../cjs/ServerProtocol.js",
+  "module": "../esm/ServerProtocol.js"
+}

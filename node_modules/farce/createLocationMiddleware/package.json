@@ -1,0 +1,6 @@
+{
+  "name": "farce/createLocationMiddleware",
+  "private": true,
+  "main": "../cjs/createLocationMiddleware.js",
+  "module": "../esm/createLocationMiddleware.js"
+}
